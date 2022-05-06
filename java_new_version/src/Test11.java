@@ -13,5 +13,6 @@ public class Test11 {
     public static void main(String[] args) {
         var num = 10;
         String ls = "ls";
+        String s = "123";
     }
 }
