@@ -14,5 +14,6 @@ public class Test11 {
         var num = 10;
         String ls = "ls";
         String s = "123";
+        int i = 456;
     }
 }
