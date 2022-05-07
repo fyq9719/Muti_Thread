@@ -17,5 +17,6 @@ public class Test11 {
         int i = 456;
         System.out.println("hello hot-fix");
         System.out.println("hello master test");
+        System.out.println("hello hot-test");
     }
 }
