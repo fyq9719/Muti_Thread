@@ -19,5 +19,6 @@ public class Test11 {
         System.out.println("hello master test");
         System.out.println("hello hot-test");
         System.out.println("PUSH test");
+        System.out.println("PUSH test");
     }
 }
