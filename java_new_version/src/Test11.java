@@ -16,5 +16,6 @@ public class Test11 {
         String s = "123";
         int i = 456;
         System.out.println("hello hot-fix");
+        System.out.println("hello master test");
     }
 }
